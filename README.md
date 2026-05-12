@@ -1,19 +1,6 @@
-# Research Frames
+# What makes LLM-generated Answers Valuable for Research Problem Reframing?
 
-Research Frames is an AI-assisted tool for computational creativity research. It surfaces novel research perspectives by analysing a researcher's own notes and PDFs alongside retrieved academic literature, then synthesising concise "answers".
-
-*Side-by-side view of a researcher's annotated notes (left) alongside the frame browser and generation interface (right).*
-![Notes and frame browser](Additional_Figures_and_Prompts/1.png)
-
-*Setup view where the user enters their research interest and selects notes and linked PDFs from their vault.*
-![Setup view](Additional_Figures_and_Prompts/2.png)
-
-*Batch evaluation interface for pairwise 1v1 comparison of generated frames.*
-![Batch comparison view](Additional_Figures_and_Prompts/3.png)
-
-## AI Disclaimer
-
-Claude Code (Anthropic) was heavily used to assist in the development of both the frontend (Obsidian plugin) and the backend (FastAPI server). All generated code was reviewed and integrated by the authors.
+This repository contains the code for the ICCC 2026 paper titled "What makes LLM-generated Answers Valuable for Research Problem Reframing?" 
 
 ## Repository structure
 
@@ -24,6 +11,20 @@ Claude Code (Anthropic) was heavily used to assist in the development of both th
 | `Additional_Figures_and_Prompts/` | Supplementary figures and LLM prompt listings from the paper |
 
 See the README in each sub-folder for setup and run instructions.
+*Side-by-side view of a researcher's annotated notes (left) alongside the frame browser and generation interface (right).*
+
+![Notes and frame browser](Additional_Figures_and_Prompts/1.png)
+
+*Setup view where the user enters their research interest and selects notes and linked PDFs from their vault.*
+![Setup view](Additional_Figures_and_Prompts/2.png)
+
+*Batch evaluation interface for pairwise 1v1 comparison of generated frames.*
+![Batch comparison view](Additional_Figures_and_Prompts/3.png)
+
+## AI Disclaimer
+
+Claude Code (Anthropic) was heavily used to assist in the development of both the frontend (Obsidian plugin) and the backend (FastAPI server). Generated code was reviewed and integrated by the authors.
+
 
 ## Additional Figures and Prompts
 
