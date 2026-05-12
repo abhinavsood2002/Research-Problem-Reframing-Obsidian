@@ -11,6 +11,8 @@ This repository contains the code for the ICCC 2026 paper titled "What makes LLM
 | `Additional_Figures_and_Prompts/` | Supplementary figures and LLM prompt listings from the paper |
 
 See the README in each sub-folder for setup and run instructions.
+
+## Screenshots of the Plugin
 *Side-by-side view of a researcher's annotated notes (left) alongside the frame browser and generation interface (right).*
 
 ![Notes and frame browser](Additional_Figures_and_Prompts/1.png)
